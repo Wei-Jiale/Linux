@@ -44,7 +44,7 @@ void mydeamon(){
 
 int main(){
     mydeamon();
-    //方便查看守护进程确实被创建
+    //方便查看守护进程被创建
     while(1);
 
     return 0;
